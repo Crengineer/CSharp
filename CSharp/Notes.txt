@@ -1,0 +1,5 @@
+Tipi incorporati
+Sono di fatto tipi di classe
+ex.
+per dati booleani, si userá la dichiarazione "System.Boolean"
+Console.Writeline é un metodo che ha diversi overload, esempio: Console.WriteLine(); Console.WriteLine(char value);Console.WriteLine(bool value), etc.

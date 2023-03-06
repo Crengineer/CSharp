@@ -1,0 +1,15 @@
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.csproj.AssemblyReference.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.AssemblyInfoInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.AssemblyInfo.cs
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\bin\Debug\net6.0\ConsoleAppAgeCalculation.exe
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\bin\Debug\net6.0\ConsoleAppAgeCalculation.deps.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\bin\Debug\net6.0\ConsoleAppAgeCalculation.runtimeconfig.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\bin\Debug\net6.0\ConsoleAppAgeCalculation.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\bin\Debug\net6.0\ConsoleAppAgeCalculation.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\refint\ConsoleAppAgeCalculation.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ConsoleAppAgeCalculation.genruntimeconfig.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppAgeCalculation\obj\Debug\net6.0\ref\ConsoleAppAgeCalculation.dll
