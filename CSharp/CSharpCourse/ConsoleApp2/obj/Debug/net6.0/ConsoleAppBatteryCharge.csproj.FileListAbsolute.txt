@@ -1,0 +1,15 @@
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\bin\Debug\net6.0\ConsoleAppBatteryCharge.exe
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\bin\Debug\net6.0\ConsoleAppBatteryCharge.deps.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\bin\Debug\net6.0\ConsoleAppBatteryCharge.runtimeconfig.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\bin\Debug\net6.0\ConsoleAppBatteryCharge.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\bin\Debug\net6.0\ConsoleAppBatteryCharge.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.csproj.AssemblyReference.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.AssemblyInfoInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.AssemblyInfo.cs
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.csproj.CoreCompileInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleAppBatteryCharge.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ConsoleAppBatteryCharge.genruntimeconfig.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleAppBatteryCharge.dll

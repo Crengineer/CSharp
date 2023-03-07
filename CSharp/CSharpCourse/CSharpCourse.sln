@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppAgeCalculation", "ConsoleAppAgeCalculation\ConsoleAppAgeCalculation.csproj", "{72606932-3659-45B8-A67F-684712A8F38C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E5FB61DD-DA5B-40E0-978C-938F0C157A87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppBatteryCharge", "ConsoleApp2\ConsoleAppBatteryCharge.csproj", "{E5FB61DD-DA5B-40E0-978C-938F0C157A87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

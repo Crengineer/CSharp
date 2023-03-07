@@ -3,3 +3,18 @@ Sono di fatto tipi di classe
 ex.
 per dati booleani, si userá la dichiarazione "System.Boolean"
 Console.Writeline é un metodo che ha diversi overload, esempio: Console.WriteLine(); Console.WriteLine(char value);Console.WriteLine(bool value), etc.
+--------------------------------
+Random rappresenta un oggetto complesso per generare numeri pseudocasuali
+per inizializzare un numero casuale, va richiarato come
+Random rnd
+e poi va passato un seed per generare un numero, ad esempio il tempo reale come DateTime.Now.Second
+Se invece viene passato un intero, la generazione di numeri diventa fissa
+----------------------------------
+Notazione condizionale:
+{(test ? "Esito positivo" : "Esito Negativo")}
+------------------------------------
+Cambiare colore della console: Console.ForegroundColor = ConsoleColor.Magenta;
+Resettare colore: Console.ResetColor();
+-------------------------------------
+Variabili di tipo base: sono giá inizializzate; esempio, il tipo INT é inizializzato a 0
+Variabili di tipo non-base: non sono inizializzate

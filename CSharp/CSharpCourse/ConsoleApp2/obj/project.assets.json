@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cresp\\Documents\\CSharp\\CSharpCourse\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\cresp\\Documents\\CSharp\\CSharpCourse\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\cresp\\Documents\\CSharp\\CSharpCourse\\ConsoleApp2\\ConsoleAppBatteryCharge.csproj",
+      "projectName": "ConsoleAppBatteryCharge",
+      "projectPath": "C:\\Users\\cresp\\Documents\\CSharp\\CSharpCourse\\ConsoleApp2\\ConsoleAppBatteryCharge.csproj",
       "packagesPath": "C:\\Users\\cresp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cresp\\Documents\\CSharp\\CSharpCourse\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
