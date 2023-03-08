@@ -1,0 +1,15 @@
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\bin\Debug\net6.0\ConsoleAppStrings.exe
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\bin\Debug\net6.0\ConsoleAppStrings.deps.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\bin\Debug\net6.0\ConsoleAppStrings.runtimeconfig.json
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\bin\Debug\net6.0\ConsoleAppStrings.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\bin\Debug\net6.0\ConsoleAppStrings.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.csproj.AssemblyReference.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.AssemblyInfoInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.AssemblyInfo.cs
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.csproj.CoreCompileInputs.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\refint\ConsoleAppStrings.dll
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.pdb
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ConsoleAppStrings.genruntimeconfig.cache
+C:\Users\cresp\Documents\CSharp\CSharpCourse\ConsoleAppStrings\obj\Debug\net6.0\ref\ConsoleAppStrings.dll
